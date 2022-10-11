@@ -1,0 +1,12 @@
+KeyWords are the universaly standard word the funtionality of keywoards already predefined by developers..
+
+Whenever we required these Keywords then we can use in our program.but we can't able to modify these keyword original funtionality
+
+
+syntax:-->display all keywords
+      -->import Keyword
+      -->Keyword.KwList
+      
+Only 3 keywords Starts with "UpperCase"
+"None","False","True"-->>Special Keywords
+we can assign these 3 keywords as  a valve..
